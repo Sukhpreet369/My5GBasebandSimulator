@@ -2,7 +2,7 @@
 
 ## 1. Agreement
 
-Under this Contributor Agreement (“Agreement”), the party contributing to UERANSIM (“the Contributor”), hereby grants Ali GÜNGÖR (“the Project Owner”) the contributions made to the project.
+Under this Contributor Agreement (“Agreement”), the party contributing to My5GBasebandSimulator (“the Contributor”), hereby grants Algonquin Team (“the Project Owner”) the contributions made to the project.
 
 ## 2. License to Contributions
 
@@ -14,6 +14,6 @@ The Contributor represents that the contributions are original, and that the Con
 
 ## 4. Implicit Acceptance of Terms
 
-By contributing to UERANSIM, the Contributor implicitly acknowledges and accepts the terms of this Agreement. It is the responsibility of the Contributor to read and understand the terms of this Agreement before making any contributions to UERANSIM.
+By contributing to My5GBasebandSimulator, the Contributor implicitly acknowledges and accepts the terms of this Agreement. It is the responsibility of the Contributor to read and understand the terms of this Agreement before making any contributions to My5GBasebandSimulator.
 
 ---
